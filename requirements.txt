@@ -1,0 +1,7 @@
+Flask==3.0.3
+pandas==2.2.2
+nltk==3.8.1
+emoji==2.11.1
+scikit-learn==1.6.0
+numpy==1.26.4
+waitress==3.0.2

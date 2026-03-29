@@ -1,0 +1,11 @@
+text,sentiment
+I love this new product! It's absolutely amazing.,Positive
+Worst experience ever,Negative
+Average quality,Neutral
+This is amazing!,Positive
+I hate this!,Negative
+It's okay.,Neutral
+Best purchase ever!,Positive
+Terrible service.,Negative
+Not bad not great.,Neutral
+Highly recommended!,Positive
