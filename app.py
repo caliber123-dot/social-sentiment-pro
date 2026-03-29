@@ -232,12 +232,16 @@ def download_sample():
 
 if __name__ == '__main__':
     # app.run(debug=True, port=5000)
-    serve(app, host="0.0.0.0", port=5000)
+    port = int(os.environ.get("PORT", 5000))
+    serve(app, host="0.0.0.0", port=port)
 
 # triggers model reloading!
 
+# pip install gunicorn
+
 # git init
 # git add .
+# git status
 # git commit -m "Initial commit - Social Sentiment Pro"
 # git branch -M main
 # git remote add origin https://github.com/caliber123-dot/social-sentiment-pro.git
