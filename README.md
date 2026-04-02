@@ -8,6 +8,8 @@
 
 **Social Sentiment Pro** is a web-based application that analyzes user-generated content such as tweets, comments, and reviews to determine sentiment.
 
+https://social-sentiment-pro.onrender.com/
+
 The system classifies input text into:
 
 * ✅ Positive
